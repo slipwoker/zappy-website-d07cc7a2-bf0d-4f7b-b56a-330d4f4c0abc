@@ -2,13 +2,13 @@
 
 A promotional and distribution website for an original film, featuring an integrated payment/checkout system for ticket sales or digital access, and links to the film's social media channels. The site is intended to serve as the central hub for the film's marketing and audience engagement.
 
-Source: https://wisdom-art-d07cc7a2.zappy5.app
+Source: https://example.com
 
 ---
 
 ## the swedish art of aging exuberantly — Wisdom art
 
-URL: https://wisdom-art-d07cc7a2.zappy5.app
+URL: https://example.com
 Description: A promotional and distribution website for an original film, featuring an integrated payment/checkout system for ticket sales or digital access, and links to th
 
 the swedish art of aging exuberantly — Wisdom art
@@ -729,7 +729,7 @@ Wisdom Art — the swedish art of aging exuberantly, סרט מקורי שמספ�
 
 ## מדיניות פרטיות
 
-URL: https://wisdom-art-d07cc7a2.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -911,7 +911,7 @@ Wisdom art ("החברה", "אנו", "שלנו") מחויבת להגן על פר�
 
 ## הצהרת נגישות
 
-URL: https://wisdom-art-d07cc7a2.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -1102,7 +1102,7 @@ Wisdom art מחויבת להנגיש את השירותים לכלל הציבור
 
 ## תנאי שימוש
 
-URL: https://wisdom-art-d07cc7a2.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
