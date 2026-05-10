@@ -28,7 +28,10 @@ Information about WCAG compliance and accessibility features.
 
 ## How to Contact Us
 
-- (No contact details configured yet.)
+- Email: wisdomart777@walla.com
+- Phone: 972523758396
+- Phone (tel): tel:972523758396
+- Address: Dizingof 99, Tel Aviv, Israel
 
 ### Contact form
 - URL: https://example.com
